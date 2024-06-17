@@ -1,4 +1,4 @@
-# Child-Well-Being-Analysis-Ethiopia-and-Vietnam-in-
+# Child-Well-Being-Analysis-Ethiopia-and-Vietnam
 This project analyzes the wellbeing of children in low and middle-income countries, specifically Ethiopia and Vietnam, using various data science techniques. The project is based on the global study "Young Lives" which observed the lifestyles of 12,000 children over fifteen years. The goal is to gather evidence to guide decision-makers in creating programs that benefit underprivileged children and their families, addressing issues such as material poverty, addiction, and education.
 
 ## Data Science Techniques Used
